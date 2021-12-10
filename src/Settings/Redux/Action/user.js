@@ -1,0 +1,1 @@
+export const USER_TEST_REDUCER = 'user/USER_TEST_REDUCER';
